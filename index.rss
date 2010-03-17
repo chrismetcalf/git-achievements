@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Chris Metcalf's Git Achievements</title>
+<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
